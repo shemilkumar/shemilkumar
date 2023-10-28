@@ -4,6 +4,7 @@
  
 <div align="center">
   <image src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" >
+  <image src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" >
   <image src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" >
   <image src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" >
   <image src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" >
@@ -14,7 +15,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shemilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="shemilkumar" /> </p>
 
-- 🔭 I’m currently working in **TCS**
+- 🔭 I’m currently working in **Probeplus Innovative Solutions Pvt. Ltd**
+
+- 🔭 Ex- **TCS**
 
 - 🌱 I’m currently learning **NextJS, Jest**
 
