@@ -1,4 +1,4 @@
-<image alt="mern" src="https://github.com/shemilkumar/shemilkumar/blob/main/coverPhoto.png" >
+<!-- <image alt="mern" src="https://github.com/shemilkumar/shemilkumar/blob/main/coverPhoto.png" > -->
 <h1 align="center">Hi 👋, I'm Shemil</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
  
